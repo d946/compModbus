@@ -1,0 +1,23 @@
+{
+  "name": "lmodbus",
+  "version": "1.0.0",
+  "description": "Modbus Library for STM32",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d946/testlib.git"
+  },
+  "keywords": [
+    "Modbus",
+    "STM32"
+  ],
+  "author": "Sergey Fedorov (d946)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d946/testlib/issues"
+  },
+  "homepage": "https://github.com/d946/testlib#readme"
+}
